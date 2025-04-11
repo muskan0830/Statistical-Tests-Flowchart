@@ -12,4 +12,5 @@ And while it’s definitely oversimplified (I’ll admit that upfront), it’s e
 A clear, visual starting point to help me figure out which hypothesis test to use — without Googling and still feeling confused.
 
 
-## Read detailed article from here: 
+## [Read the full blog post here](https://muskanstinydata.wordpress.com/2025/04/12/too-many-statistical-tests-this-flowchart-will-save-your-brain-and-time/)
+
